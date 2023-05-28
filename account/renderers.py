@@ -14,5 +14,3 @@ class UserRenderer(renderers.JSONRenderer):
         
         return response
     
-    
-
